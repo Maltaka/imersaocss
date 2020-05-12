@@ -1,0 +1,41 @@
+body {
+  background-image: url('https://www.freepik.es/vector-gratis/fondo-moderno-onda-verde_1192242.htm');
+  background-size: auto 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100vh;
+}
+
+.menu {
+  background-color: whitesmoke;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+  list-style: none;
+}
+
+a {
+  color: teal;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-subtitle,
+.site-title {
+  color: teal;
+  text-align: center;
+}
+
+.site-subtitle {
+  font-style: italic;
+}
+
+
+
